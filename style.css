@@ -1,0 +1,30 @@
+.top{
+	float:right;
+    padding:8px;
+    color:#676767;
+    font-family:arial;
+    font-size:14px;
+}
+.letters{
+	align-items:center;
+    padding:2px;
+    font-family:sans-serif;
+}
+#g{
+  color:blue;
+}
+#o1{
+  color:red;
+}
+#o2{
+  color:yellow;
+}
+#g2{
+  color:blue;
+}
+#l{
+  color:green;
+}
+#e{
+  color:red;
+}
